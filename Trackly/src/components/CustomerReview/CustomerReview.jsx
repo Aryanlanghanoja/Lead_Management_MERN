@@ -21,7 +21,7 @@ const CustomerReview = () => {
         type: "gradient",
       },
       dataLabels: {
-        enabled: false,
+        enabled: true,
       },
       stroke: {
         curve: "smooth",
