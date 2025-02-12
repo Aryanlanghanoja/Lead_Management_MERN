@@ -60,7 +60,7 @@ function ExpandedCard({ param, setExpanded }) {
       },
 
       dropShadow: {
-        enabled: false,
+        enabled: true,
         enabledOnSeries: undefined,
         top: 0,
         left: 0,
@@ -74,7 +74,7 @@ function ExpandedCard({ param, setExpanded }) {
         type: "gradient",
       },
       dataLabels: {
-        enabled: false,
+        enabled: true,
       },
       stroke: {
         curve: "smooth",
