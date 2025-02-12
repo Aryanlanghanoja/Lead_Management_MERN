@@ -5,9 +5,11 @@
 .MuiTableRow-root.MuiTableRow-head > * {
   font-weight: bold !important;
 }
- .Table  h3{
-  margin-bottom: 15px;
- }
+
+.Table  h3{
+margin-bottom: 20px;
+}
+
 .Table td,
 th {
   border: none !important;
